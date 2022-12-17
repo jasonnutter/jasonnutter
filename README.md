@@ -4,16 +4,9 @@ Experienced frontend engineer with a background as an individual contributor, le
 
 ## Work
 
-Currently, I'm an engineer at [@microsoft](https://github.com/microsoft), where I work on open-source software in [@AzureAD](https://github.com/azuread), namely on the [Microsoft Authentication Libraries for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js). 
+Previously, I was an engineer at [@microsoft](https://github.com/microsoft), where I worked on open-source software in [@AzureAD](https://github.com/azuread), namely on the [Microsoft Authentication Libraries for JavaScript](https://github.com/AzureAD/microsoft-authentication-library-for-js). 
 
-I am also a guest lecturer at the [University of Washington](https://uw.edu), where I teach web development in the [Informatics program](https://ischool.uw.edu/programs/informatics).
-
-## Committees
-
-I am currently a Microsoft delegate on the following committees:
-
-- **[ECMA TC39](https://tc39.es/)**: The technical committee for the ECMAScript specification.
-- **[W3C Privacy CG](https://www.w3.org/community/privacycg/)**: Community group developing privacy-centric standards and APIs for the web.
+I was also a guest lecturer at the [University of Washington](https://uw.edu), where I taught web development in the [Informatics program](https://ischool.uw.edu/programs/informatics).
 
 ## Contact
 

@@ -11,5 +11,4 @@ I was also a guest lecturer at the [University of Washington](https://uw.edu), w
 ## Contact
 
 - [Personal website](https://jasonnutter.com)
-- [Twitter](https://twitter.com/jasonnutter)
-- [LinkedIn](https://linkedin.com/in/jnutter)
+- [LinkedIn](https://linkedin.com/in/jasonnuttech)
